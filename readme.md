@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidchohan&show_icons=true&locale=en&layout=compact" alt="junaidchohan" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidchohan&show_icons=true&locale=en" alt="junaidchohan" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidchohan&show_icons=true&locale=en" alt="junaidchohan" width="300" height="300"/>
 </div>
 
 
