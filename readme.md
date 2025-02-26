@@ -21,7 +21,8 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidchohan&show_icons=true&locale=en" alt="junaidchohan" width="400" height="200"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidchohan" alt="junaidchohan"/>
+  <img src=" https://github-readme-streak-stats.herokuapp.com/?user=junaidchohan" alt="junaidchohan "/>
 </p>
 
