@@ -23,6 +23,7 @@
 </p>
 
 <p align="center">
-  <img src=" https://github-readme-streak-stats.herokuapp.com/?user=junaidchohan" alt="junaidchohan "/>
+  <img src="https://streak-stats.demolab.com/?user=junaidchohan" alt="junaidchohan Streak Stats"/>
 </p>
+
 
