@@ -47,6 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=junaidchohan" alt="junaidchohan Streak Stats" width="400" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=junaidchohan&cache_seconds=86400" alt="junaidchohan Streak Stats" width="400" height="150"/>
 </p>
+
 
