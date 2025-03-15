@@ -47,5 +47,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidchohan" alt="junaidchohan Streak Stats" width="400" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=junaidchohan" alt="junaidchohan Streak Stats" width="400" height="150"/>
 </p>
+
