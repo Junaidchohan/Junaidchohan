@@ -26,3 +26,5 @@
   <img src="https://streak-stats.demolab.com/?user=junaidchohan" alt="GitHub Streak"/>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=junaidchohan&theme=dark)](https://git.io/streak-stats)
+
