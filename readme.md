@@ -21,6 +21,8 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidchohan&show_icons=true&locale=en" alt="junaidchohan" width="" height=""/>
 </p>
-
+<p align="center">
+  <img src="[https://streak-stats.demolab.com/?user=junaidchohan" alt="GitHub Streak](https://streak-stats.demolab.com/?user=junaidchohan&theme=dark)](https://git.io/streak-stats)"/>
+</p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=junaidchohan&theme=dark)](https://git.io/streak-stats)
 
