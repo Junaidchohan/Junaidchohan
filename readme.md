@@ -1,4 +1,4 @@
-![logo](https://github.com/Junaidchohan/Junaidchohan/blob/main/github.png)
+![logo](https://github.com/Junaidchohan/Junaidchohan/blob/main/github.png.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Junaid</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
