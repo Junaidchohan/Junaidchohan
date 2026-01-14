@@ -48,10 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidchohan&show_icons=true&layout=compact" width="400"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junaidchohan&show_icons=true" width="400"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=junaidchohan" width="400"/>
-</p>
+</p> -->
