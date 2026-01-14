@@ -44,10 +44,11 @@
 
 ---
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidchohan&show_icons=true&layout=compact" width="400"/>
 </p>
-
+](https://github-readme-stats.vercel.app/api?username=junaidchohan&show_icons=true&theme=default
+)
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junaidchohan&show_icons=true" width="400"/>
 </p>
